@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.header{
+    height: 100vh;
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #000;
+}
+.logo
+{
+    width: 100px;
+    display: left;
+}
+.icon-bar
+{
+    background: #000;
+}
+.color-text
+{
+    color: red;
+    font-family: inherit;
+}
+.col-sm-6 p
+{
+    font-size: 20px;
+}
+.booking-img
+{
+    width: 300px;
+
+}
+
+<---------------------------------------------------------------------------------------------------------------------->
+
+.footer
+{
+    background-color: #353745;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+   height: auto;
+}
+
+
